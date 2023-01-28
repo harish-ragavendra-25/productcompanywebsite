@@ -211,15 +211,16 @@ Publish the website in the given URL.
 
 ```
 ## OUTPUT:
-![output](./images/product.png)
-![output](./images/contactus.png)
-![output](images/people.png)
-![output](home1.png)
+
+![output](home1.jpg)
+![output](contactus.jpg)
+![output](people.jpg)
+![output](product.jpg)
 
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
+![output](homepage.jpg)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
